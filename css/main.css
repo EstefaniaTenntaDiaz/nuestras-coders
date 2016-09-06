@@ -1,0 +1,65 @@
+*{
+	margin-left: 30px;
+	margin-top: 20px;
+}
+.contenedor{
+	width: 70%;
+	height: 70%;
+	position: relative;
+}
+span{
+	position: absolute;
+	bottom: 0px;
+	right: 0px;
+	font-size: 12px;
+	color: white;
+}
+.profile-1{
+	width: 200px;
+	height: 200px;
+	background-image: url("../img/profile-1.png");
+	float: left;
+	position: relative;
+	margin: 10px;
+}
+
+.profile-2{
+	width: 200px;
+	height: 200px;
+	background-image: url("../img/profile-2.png");
+	float: left;
+	position: relative;
+	margin: 10px;
+}
+.profile-3{
+	width: 200px;
+	height: 200px;
+	background-image: url("../img/profile-3.png");
+	float: left;
+	position: relative;
+	margin: 10px;
+}
+.profile-4{
+	width: 200px;
+	height: 200px;
+	background-image: url("../img/profile-4.png");
+	float: left;
+	position: relative;
+	margin: 10px;
+}
+.profile-5{
+	width: 200px;
+	height: 200px;
+	background-image: url("../img/profile-5.png");
+	float: left;
+	position: relative;
+	margin: 10px;
+}
+.profile-6{
+	width: 200px;
+	height: 200px;
+	background-image: url("../img/profile-6.png");
+	float: left;
+	position: relative;
+	margin: 10px;
+}
